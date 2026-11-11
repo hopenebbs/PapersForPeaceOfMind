@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://papersforpeaceofmind.co.uk/sitemap.xml
